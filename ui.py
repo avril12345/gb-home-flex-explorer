@@ -198,7 +198,7 @@ def hero() -> None:
     st.markdown(
         """
 <div class="hero">
-  <h1>⚡ GB Home Flex Explorer</h1>
+  <h1>⚡ Home energy-saving explorer</h1>
   <p class="lead">How much could a British household save by using electricity at smarter times,
   and is the equipment worth buying? Real public data from Ofgem and Elexon, with every number sourced.</p>
   <div class="steps">

@@ -1,4 +1,4 @@
-# GB Home Flex Explorer
+# Home energy-saving explorer
 
 A Streamlit app that answers two questions with public data only:
 

@@ -1,4 +1,4 @@
-"""GB Home Flex Explorer — Streamlit app.
+"""Home energy-saving explorer — Streamlit app.
 
 Run:  streamlit run app.py
 """
@@ -18,7 +18,7 @@ import scorecard as sc_mod
 import ui
 from memo_pdf import build_memo
 
-st.set_page_config(page_title="GB Home Flex Explorer", page_icon="⚡", layout="wide")
+st.set_page_config(page_title="Home energy-saving explorer", page_icon="⚡", layout="wide")
 
 # Validated categorical palette led by brand red (fixed order, never cycled).
 C_TOU, C_CAP, C_HOUSE, C_EV, C_BAT = (ui.CHART[k] for k in ("tou", "cap", "house", "ev", "bat"))

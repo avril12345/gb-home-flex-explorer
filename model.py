@@ -1,4 +1,4 @@
-"""Household tariff and flexibility model for GB Home Flex Explorer.
+"""Household tariff and flexibility model for Home energy-saving explorer.
 
 All quantities are per half-hour (HH). Energy in kWh, prices in pence/kWh.
 """

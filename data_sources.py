@@ -1,4 +1,4 @@
-"""Live public data fetchers for GB Home Flex Explorer.
+"""Live public data fetchers for Home energy-saving explorer.
 
 Every fetcher either returns real, parsed data together with its source
 metadata, or raises DataSourceError. There are deliberately NO fallback or
