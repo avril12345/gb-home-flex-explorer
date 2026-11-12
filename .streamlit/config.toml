@@ -1,0 +1,12 @@
+[theme]
+base = "light"
+primaryColor = "#C8102E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#FFF4F5"
+textColor = "#1F1F24"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+baseFontSize = 16
+baseRadius = "0.75rem"
+
+[browser]
+gatherUsageStats = false
